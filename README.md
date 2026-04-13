@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🛡️-FakeGuard_AI-00f0ff?style=for-the-badge&labelColor=0a0a0f" alt="FakeGuard AI"/>
 </p>
-
+ 
 <h1 align="center">FakeGuard AI</h1>
 
 <p align="center">
